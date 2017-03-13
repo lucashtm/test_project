@@ -27,6 +27,14 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
+gem 'pronto'
+gem 'pronto-flay'
+gem 'pronto-reek'
+gem 'pronto-rubocop'
+gem 'pronto-poper'
+gem 'pronto-fasterer'
+gem 'pronto-brakeman'
+gem 'pronto-rails_best_practices'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
